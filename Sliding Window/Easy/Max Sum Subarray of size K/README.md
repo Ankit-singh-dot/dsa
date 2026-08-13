@@ -10,4 +10,4 @@
 
 ## Approach
 
-first get the subarray equal to the k size then make after this keeping adding i from start and adding j form the end that it .
+juyruyrlyukketyeky
