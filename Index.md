@@ -13,5 +13,6 @@ All solved problems organized by pattern/category.
 - [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) - *Hard*
 
 ## Uncategorized
+- [Find Missing and Repeated Values](./LeetCode/Easy/Find%20Missing%20and%20Repeated%20Values) - *Easy*
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 - [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) - *Medium*
