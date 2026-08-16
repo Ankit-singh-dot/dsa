@@ -11,3 +11,6 @@ All solved problems organized by pattern/category.
 
 ## Greedy
 - [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) - *Hard*
+
+## Uncategorized
+- [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) - *Medium*
