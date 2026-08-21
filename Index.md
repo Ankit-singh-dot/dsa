@@ -17,3 +17,6 @@ All solved problems organized by pattern/category.
 - [Find Missing and Repeated Values](./LeetCode/Easy/Find%20Missing%20and%20Repeated%20Values) - *Easy*
 - [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 - [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) - *Medium*
+
+## Bit Manipulation
+- [Kth Smallest Amount With Single Denomination Combination](./LeetCode/Hard/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) - *Hard*
