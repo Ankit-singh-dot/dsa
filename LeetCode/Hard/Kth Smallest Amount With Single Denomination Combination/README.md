@@ -8,8 +8,8 @@
 | **Solved On** | August 21, 2026 |
 | **Tags** | Array, Math, Binary Search, Bit Manipulation, Combinatorics, Number Theory |
 | **Link** | [View Problem](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) |
-| **Runtime** | 0 ms |
-| **Memory** | 42.4 MB |
+| **Runtime** | 171 ms |
+| **Memory** | 43.5 MB |
 
 ## Problem Description
 
