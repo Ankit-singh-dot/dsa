@@ -20,3 +20,6 @@ All solved problems organized by pattern/category.
 
 ## Bit Manipulation
 - [Kth Smallest Amount With Single Denomination Combination](./LeetCode/Hard/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) - *Hard*
+
+## Trees
+- [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
