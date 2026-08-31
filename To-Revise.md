@@ -6,3 +6,4 @@ Check these off as you review them!
 - [ ] **First Negative in Windows of Size K** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/First%20Negative%20in%20Windows%20of%20Size%20K)
 - [ ] **Count Occurences of Anagrams** (GeeksForGeeks - Medium) | [View Solution](./GeeksForGeeks/Medium/Count%20Occurences%20of%20Anagrams)
 - [ ] **Longest Valid Parentheses** (LeetCode - Hard) | [View Solution](./LeetCode/Hard/Longest%20Valid%20Parentheses)
+- [ ] **Find the Duplicate Number** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Find%20the%20Duplicate%20Number)
