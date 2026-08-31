@@ -8,12 +8,8 @@
 | **Solved On** | August 31, 2026 |
 | **Tags** | Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm |
 | **Link** | [View Problem](https://leetcode.com/problems/find-the-duplicate-number/) |
-| **Runtime** | 3 ms |
-| **Memory** | 65.1 MB |
-
-## Approach
-
- fucg vhbjnutfjviygvouhvygvgov
+| **Runtime** | 0 ms |
+| **Memory** | 64.9 MB |
 
 ## Problem Description
 
