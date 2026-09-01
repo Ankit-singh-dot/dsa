@@ -23,3 +23,6 @@ All solved problems organized by pattern/category.
 
 ## Trees
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
+
+## Math & Geometry
+- [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20atoi) - *Medium*
