@@ -7,8 +7,8 @@
 | **Language** | cpp |
 | **Solved On** | September 8, 2026 |
 | **Link** | [View Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |
-| **Runtime** | 25 ms |
-| **Memory** | 24 MB |
+| **Runtime** | 18 ms |
+| **Memory** | 24.1 MB |
 
 ##  Top Community Optimal Approach
 
