@@ -25,4 +25,5 @@ All solved problems organized by pattern/category.
 - [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
 
 ## Math & Geometry
+- [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) - *Medium*
 - [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20atoi) - *Medium*
