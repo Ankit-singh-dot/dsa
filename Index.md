@@ -30,3 +30,6 @@ All solved problems organized by pattern/category.
 
 ## Heap / Priority Queue
 - [Maximum Depth Of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20Of%20Binary%20Tree) - *Easy*
+
+## Backtracking
+- [Substring with Concatenation of All Words](./LeetCode/Hard/Substring%20with%20Concatenation%20of%20All%20Words) - *Hard*
