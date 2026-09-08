@@ -34,3 +34,6 @@ All solved problems organized by pattern/category.
 ## Backtracking
 - [Substring With Concatenation Of All Words](./LeetCode/Hard/Substring%20With%20Concatenation%20Of%20All%20Words) - *Hard*
 - [Substring with Concatenation of All Words](./LeetCode/Hard/Substring%20with%20Concatenation%20of%20All%20Words) - *Hard*
+
+## Tries
+- [Wildcard Matching](./LeetCode/Hard/Wildcard%20Matching) - *Hard*
