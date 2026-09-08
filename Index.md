@@ -27,3 +27,6 @@ All solved problems organized by pattern/category.
 ## Math & Geometry
 - [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) - *Medium*
 - [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20atoi) - *Medium*
+
+## Heap / Priority Queue
+- [Maximum Depth Of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20Of%20Binary%20Tree) - *Easy*
